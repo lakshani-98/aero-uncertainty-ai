@@ -1,4 +1,4 @@
-# ✈️ Uncertain Skies: Enhancing Trust in AI for Air Traffic Control  
+# ✈️ PitchGuard: Enhancing Trust in AI for Air Traffic Control  
 Uncertainty Estimation in Predictive Models using Monte Carlo Dropout & Deep Ensembles
 
 ---
